@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning.md",
+                "file": "courses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.md",
+                "file": "courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.md",
+                "file": "courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.md"
+                "file": "courses.md"
               }
             }
           }
@@ -136,6 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bc8df1db23e7d86",
+  "active": "fa30f646649f2fe1",
   "lastOpenFiles": []
 }
