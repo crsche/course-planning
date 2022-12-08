@@ -1,0 +1,19 @@
+# Requirements
+- 4 years of language
+  - French I?
+  - French II
+  - **French III - Current Level**
+  - French IV
+  - AP French
+- 4 years of English
+  - Foundations of English
+  - **American Literature - Current Level**
+- 4 years of Social Studies
+  - World History
+  - **AP US History - Current Level**
+- 4 years of Math
+  - Algebra
+  - Geometry
+  - Algebra II
+  - Pre-Calculus
+  - Calculus I
